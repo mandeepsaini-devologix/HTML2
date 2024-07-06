@@ -1,0 +1,18 @@
+
+
+/* Slider element */
+.sec-slider{ }
+.sec-slider .slide {  background-repeat: no-repeat; background-size: 100%; background-position: center center; }
+.sec-slider .slide .container{ padding: 160px 0px;  opacity: 1;}
+.sec-slider .slide .title{ font-size: 40px;  color: white; font-weight: 800; text-shadow: 3px 3px 5px rgba(0,0,0,0.5); }
+.sec-slider .slide .desc{  color: white;  }
+
+
+/* Features Cards */
+
+.features {margin-top: -80px; }
+.features .feature-card{  padding: none !important;  background-size: 150%; background-position: center left; border-radius: 20px; margin: 20px;  background-repeat: no-repeat; background-color: red;}
+.features .feature-card .wrapper{ padding: 100px 140px 100px 20px; background: linear-gradient(to right, rgba(0,0,0,0.8) 0%,rgba(0,0,0,0) 50%);  border-radius:20px ;  }
+.features .feature-card .title{ font-size: 28px; color: white; text-shadow: 3px 3px 5px rgba(0,0,0,0.5); font-weight: 800;  }
+.features .feature-card .desc{ color: white;}
+.features .feature-card .action{ margin-top: 10px;}
